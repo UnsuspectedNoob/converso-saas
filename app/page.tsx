@@ -1,5 +1,4 @@
 import { Button } from '@/components/ui/button'
-import React from 'react'
 
 const Page = () => {
   return (
@@ -15,4 +14,4 @@ const Page = () => {
   )
 }
 
-export default Page
+export default Page;
