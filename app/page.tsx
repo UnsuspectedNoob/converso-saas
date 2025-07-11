@@ -7,9 +7,7 @@ const Page = () => {
         Welcome to My SaaS App
       </h1>
 
-      <Button>
-        Let's Get Started
-      </Button>
+      <Button>Let's Get Started</Button>
     </div>
   )
 }
